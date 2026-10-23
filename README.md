@@ -52,6 +52,11 @@ PROCEDURE FOR LOAD TEST:
 
 Tabulation for Open Circuit Test
 
+
+
+![Clean observation table](C:/Users/acer/Documents/ChatGPT/edm/observation_table_clean.png)
+
+
 Tabulation for Load Test:
 
 Model graph:
