@@ -53,27 +53,91 @@ PROCEDURE FOR LOAD TEST:
 TABULATION FOR OPEN-CIRCUIT TEST:
 
 
-<img width="690" height="858" alt="image" src="https://github.com/user-attachments/assets/dc190291-ecd3-4241-afd3-9fc6a2f2455b" />
+<img width="466" height="387" alt="image" src="https://github.com/user-attachments/assets/d4d9da5b-2b9a-40b4-b814-8aaf77160621" />
+
 
 
 
 TABULATION FOR LOAD TEST:
 
-<img width="423" height="394" alt="image" src="https://github.com/user-attachments/assets/86a15a59-eb92-409b-a3a5-3aa08ecab10b" />
+
+<img width="519" height="349" alt="image" src="https://github.com/user-attachments/assets/baae676f-a3b9-4f4b-90f3-b6d5b05aa078" />
+
 
 
 MODEL GRAPH:
 
 OPEN-CIRCUIT TEST:
 
+<img width="1018" height="428" alt="image" src="https://github.com/user-attachments/assets/5d1f0603-9cc3-49e8-9699-1b3218fad971" />
 
 
-Calculation: 
+LOAD TEST:
 
-Open circuit characteristics
+<img width="1134" height="365" alt="image" src="https://github.com/user-attachments/assets/9c4afcc9-9273-4ad6-985a-dd8a87f9f729" />
 
-  
-Load Characteristics:
- 
+
+CALCULATION
+1. Open-Circuit Test
+The open-circuit voltage increases with the field current.
+
+From the observation table:
+
+When current = 0.16 A, voltage = 115 V.
+When current = 0.20 A, voltage = 126 V.
+When current = 0.30 A, voltage = 142 V.
+2. Load Test
+The voltage drop is calculated using:
+
+Voltage Drop = No-load voltage - Load voltage
+
+Taking the first recorded voltage as the reference:
+
+No-load reference voltage = 220 V
+
+Calculation 1:
+
+At load current = 2.8 A,
+
+Voltage Drop = 220 - 212
+
+Voltage Drop = 8 V
+
+Calculation 2:
+
+At load current = 7 A,
+
+Voltage Drop = 220 - 195
+
+Voltage Drop = 25 V
+
+Calculation 3:
+
+At load current = 12.7 A,
+
+Voltage Drop = 220 - 176
+
+Voltage Drop = 44 V
+
+3. Percentage Voltage Drop
+Percentage Voltage Drop = (Voltage Drop / Reference Voltage) × 100
+
+= (44 / 220) × 100
+
+= 20%
+
+The OCC curve is plotted with field current (If) on the X-axis and open-circuit voltage (VOC) on the Y-axis at constant speed.
+
+
+OPEN CIRCUIT CHARACTERISTICS:
+
+<img width="1081" height="669" alt="image" src="https://github.com/user-attachments/assets/5717a270-6947-4348-aaea-adb1430e40f4" />
+
+
+ LOAD TEST CHARACTERISTICS:
+
+ <img width="1045" height="529" alt="image" src="https://github.com/user-attachments/assets/02cf1655-b16a-4a74-867d-36742be88750" />
+
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
