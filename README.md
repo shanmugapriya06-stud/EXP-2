@@ -8,14 +8,15 @@ To conduct load test on separately excited generators and to obtain the characte
 
 APPARATUS REQUIRED:
 
-| Sl. no. | Apparatus | Range | Type | Quantity |
+
+| Sl. No. | Apparatus | Range | Type | Quantity |
 |---:|---|---|---|---:|
-| 1 | Voltmeter | (0–300) V | MC | 1 |
-| 2 | Ammeter | (0–2.5) A | MC | 1 |
-| 3 | Ammeter | (0–5) A | MC | 1 |
-| 4 | Rheostat | as required| Wire wound | 1 |
-| 5 | Rheostat | as required | Wire wound | 1 |
-| 6 | Connecting wires | — | — | As required |
+| 1 | Voltmeter | 1–230 V | As shown in simulation | 1 |
+| 2 | Ammeter | 1–20 A | As shown in simulation | 1 |
+| 3 | Ammeter | 0–20 A | As shown in simulation | 1 |
+| 4 | Rheostat | As required | Wire-wound | 1 |
+| 5 | Connecting wires | — | — | As required |
+
 
 FUSE RATING CALCULATUON:
 
@@ -27,12 +28,16 @@ Load test
 
 125 % of rated current (full load current)
 
+
+
 PRECAUTIONS:
 
 1.   Motor side field rheostat should be kept at minimum resistance position.
 2.   Generator side field rheostat should be kept at maximum resistance position.
 3.   Starter should be in off position before switching on the supply.
 4.   keep the DPST switches open position before starting the experiment
+
+
 
 PROCEDURE FOR OPEN-CIRCUIT TEST:
 
@@ -41,6 +46,8 @@ PROCEDURE FOR OPEN-CIRCUIT TEST:
 3.   Adjust the motor speed to rated speed by adjusting motor field rheostat when the generator is disconnected from the load by DPST switch 2.
 4.   By  varying  the  generator  field  rheostat  gradually,  the  open  circuit  voltage  [Eo]  and corresponding field current (If) are tabulated up to 125 % of rated voltage of generator.
 5.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
+
+
 
 PROCEDURE FOR LOAD TEST:
 
@@ -51,6 +58,26 @@ PROCEDURE FOR LOAD TEST:
 5.   The ammeter and voltmeter readings are observed for different loads up to the rated current by closing the DPST switch 2.
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
+
+
+
+
+CIRCUIT DIAGRAM:
+
+
+OPEN CIRCUIT CHARACTERISTICS:
+
+<img width="1081" height="669" alt="image" src="https://github.com/user-attachments/assets/5717a270-6947-4348-aaea-adb1430e40f4" />
+
+
+
+ LOAD TEST CHARACTERISTICS:
+
+ <img width="1045" height="529" alt="image" src="https://github.com/user-attachments/assets/02cf1655-b16a-4a74-867d-36742be88750" />
+
+
+
+
 
 TABULATION FOR OPEN-CIRCUIT TEST:
 
@@ -132,15 +159,6 @@ Percentage Voltage Drop = (Voltage Drop / Reference Voltage) × 100
 
 The OCC curve is plotted with field current (If) on the X-axis and open-circuit voltage (VOC) on the Y-axis at constant speed.
 
-
-OPEN CIRCUIT CHARACTERISTICS:
-
-<img width="1081" height="669" alt="image" src="https://github.com/user-attachments/assets/5717a270-6947-4348-aaea-adb1430e40f4" />
-
-
- LOAD TEST CHARACTERISTICS:
-
- <img width="1045" height="529" alt="image" src="https://github.com/user-attachments/assets/02cf1655-b16a-4a74-867d-36742be88750" />
 
 
 RESULT:
