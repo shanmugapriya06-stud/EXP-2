@@ -1,12 +1,16 @@
-EXP NO 2
+**EXPERIMENT NO. 2**
 
-OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
-AIM:
+**OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR**
+
+
+## **AIM:**
+
 
 To conduct load test on separately excited generators and to obtain the characteristics
 
-APPARATUS REQUIRED:
+
+## **APPARATUS REQUIRED:**
 
 
 | Sl. No. | Apparatus | Range | Type | Quantity |
@@ -30,7 +34,8 @@ Load test
 
 
 
-PRECAUTIONS:
+## **PRECAUTIONS:**
+
 
 1.   Motor side field rheostat should be kept at minimum resistance position.
 2.   Generator side field rheostat should be kept at maximum resistance position.
@@ -38,8 +43,8 @@ PRECAUTIONS:
 4.   keep the DPST switches open position before starting the experiment
 
 
+**PROCEDURE FOR OPEN-CIRCUIT TEST:**
 
-PROCEDURE FOR OPEN-CIRCUIT TEST:
 
 1.   Make connections according to the circuit diagram
 2.   The motor is started with the help of THREE POINT starter.
@@ -49,7 +54,8 @@ PROCEDURE FOR OPEN-CIRCUIT TEST:
 
 
 
-PROCEDURE FOR LOAD TEST:
+**PROCEDURE FOR LOAD TEST:**
+
 
 1.   Make the connections according to the circuit diagram
 2.   The prime mover is started with the help of three point starter and it is made to run at rated speed when the generator is disconnected from the load by DPST switch 2.
@@ -61,17 +67,17 @@ PROCEDURE FOR LOAD TEST:
 
 
 
+## **CIRCUIT DIAGRAM:**
 
-CIRCUIT DIAGRAM:
 
 
-OPEN CIRCUIT CHARACTERISTICS:
+OPEN - CIRCUIT :
 
 <img width="1081" height="669" alt="image" src="https://github.com/user-attachments/assets/5717a270-6947-4348-aaea-adb1430e40f4" />
 
 
 
- LOAD TEST CHARACTERISTICS:
+ LOAD TEST :
 
  <img width="1045" height="529" alt="image" src="https://github.com/user-attachments/assets/02cf1655-b16a-4a74-867d-36742be88750" />
 
@@ -79,7 +85,7 @@ OPEN CIRCUIT CHARACTERISTICS:
 
 
 
-TABULATION FOR OPEN-CIRCUIT TEST:
+**TABULATION FOR OPEN-CIRCUIT TEST**
 
 
 <img width="466" height="387" alt="image" src="https://github.com/user-attachments/assets/d4d9da5b-2b9a-40b4-b814-8aaf77160621" />
@@ -87,14 +93,14 @@ TABULATION FOR OPEN-CIRCUIT TEST:
 
 
 
-TABULATION FOR LOAD TEST:
+**TABULATION FOR LOAD TEST:**
 
 
 <img width="519" height="349" alt="image" src="https://github.com/user-attachments/assets/baae676f-a3b9-4f4b-90f3-b6d5b05aa078" />
 
 
 
-MODEL GRAPH:
+**MODEL GRAPH:**
 
 
 OPEN-CIRCUIT TEST:
@@ -107,7 +113,8 @@ LOAD TEST:
 <img width="1134" height="365" alt="image" src="https://github.com/user-attachments/assets/9c4afcc9-9273-4ad6-985a-dd8a87f9f729" />
 
 
-CALCULATION:
+## **CALCULATIONS:**
+
 
 1. Open-Circuit Test
 The open-circuit voltage increases with the field current.
@@ -161,6 +168,6 @@ The OCC curve is plotted with field current (If) on the X-axis and open-circuit 
 
 
 
-RESULT:
+## **RESULT**
 
 The load test on separately excited generators and to obtain the characteristics was verified.
